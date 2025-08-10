@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-09T23:18:09.749210",
+  "timestamp": "2025-08-10T01:46:22.244769",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -28,8 +28,8 @@
     {
       "url": "https://t.me/s/v2rayngvpn",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/V2ray_Alpha",
@@ -52,8 +52,8 @@
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/VlessConfig",
