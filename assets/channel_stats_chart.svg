@@ -29,16 +29,16 @@
         <!-- Bars and labels -->
     
         <g>
-            <rect x="60" y="200.0" width="56.81818181818182" height="140.0"
+            <rect x="60" y="60.0" width="56.81818181818182" height="280.0"
                   class="bar"/>
             <text x="90.9090909090909" y="380" 
                   transform="rotate(45, 90.9090909090909, 380)"
                   text-anchor="start" class="tick-label">
                 v2ray_free_conf
             </text>
-            <text x="90.9090909090909" y="195.0" 
+            <text x="90.9090909090909" y="55.0" 
                   text-anchor="middle" class="tick-label">
-                50.0%
+                100.0%
             </text>
         </g>
         
@@ -169,21 +169,21 @@
         </g>
         
         <g>
-            <rect x="678.1818181818182" y="200.0" width="56.81818181818182" height="140.0"
+            <rect x="678.1818181818182" y="60.0" width="56.81818181818182" height="280.0"
                   class="bar"/>
             <text x="709.0909090909091" y="380" 
                   transform="rotate(45, 709.0909090909091, 380)"
                   text-anchor="start" class="tick-label">
                 freewireguard
             </text>
-            <text x="709.0909090909091" y="195.0" 
+            <text x="709.0909090909091" y="55.0" 
                   text-anchor="middle" class="tick-label">
-                50.0%
+                100.0%
             </text>
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-09-12T04:35:49.716777
+            Last updated: 2025-09-12T05:16:55.806100
         </text>
     </svg>
     
