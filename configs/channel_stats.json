@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-22T20:22:03.963208",
+  "timestamp": "2025-10-22T21:14:03.491363",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -34,8 +34,8 @@
     {
       "url": "https://t.me/s/V2ray_Alpha",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/SvnV2ray",
