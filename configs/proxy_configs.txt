@@ -78,8 +78,6 @@ vmess://eyJhZGQiOiJ3d3cuaW5mZS5jb20uYnIuaW5mZS5jb20uYnIiLCJhaWQiOiIwIiwiYWxwbiI6
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@us.vmagnum.win:57456#All-%40V2rayAlpha--1
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.185:8080#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:2081?mode=gun&security=reality&pbk=VK5gz4nB01usiPqPXG0z6yMo9X1E7mDKMCriwYbuAR4&fp=chrome&type=grpc&sni=www.modernpotterystudio.com&sid=7e0b#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#All-%40V2ray_Alpha--41
