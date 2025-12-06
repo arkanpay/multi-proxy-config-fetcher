@@ -28,8 +28,6 @@ wireguard://wGd9vDVOwZAuv5KMR%2F6C060j5pL2TckenDUcuLsqjVE%3D@162.159.192.1:500?a
 
 wireguard://yEFZufwW0jB8Lv0kYEEUilazgyYUH0KZthn2tX6NjFk%3D@162.159.192.7:4500?address=172.16.0.2%2F32&reserved=199%2C242%2C134&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-02 21:02
 
-hysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000&sni=1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com#All-%23V2rayAlpha--19
-
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#All-%23V2rayAlpha--12
 
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@de2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#All-%23V2rayAlpha--11
@@ -39,6 +37,8 @@ hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@nl1.oomz.ru:30000?security=tls&
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@uk2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#All-%23V2rayAlpha--10
 
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#WiFi-%40V2rayAlpha--2
+
+hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&sni=de.eyucdn.xyz#🇩🇪DE%20%20ROSE—12 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#All-%23V2rayAlpha--15
 
@@ -116,11 +116,15 @@ trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type
 
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#vpn⚜️More : @ZibaNabz
 
+trojan://Fv7ogJ6vfz@209.200.246.53:36774?mode=gun&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&fp=chrome&type=grpc&sni=cloudflare.com&sid=3e#All-%23V2rayAlpha--8
+
 trojan://f0b09670-9e9a-48f2-acd5-5b6cc33c83c5@cdir-0303.wlfvip.shop:443?path=%2Ftrojanws%3Fed%3D2048&security=tls&host=cdir-0303.wlfvip.shop&type=ws&sni=cdir-0303.wlfvip.shop#ConfigV2RayNG
 
 trojan://telegram-id-privatevpns@13.38.42.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@13.50.135.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
+
+trojan://telegram-id-privatevpns@18.197.203.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.68.213.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
 
