@@ -122,7 +122,7 @@ trojan://Fv7ogJ6vfz@209.200.246.53:36774?mode=gun&security=reality&pbk=QX1ITiHw0
 
 trojan://SWBUvIEm03@65.109.191.138:443?security=reality&sni=miro.com&fp=chrome&pbk=3-__NYZTR6Adai7hc0_QT3DRrtKdf9U534mL3uTCcGw&sid=89f0de4c59bb0b&spx=%2F&type=tcp&headerType=none#SpdNet 🇫🇮 خرید سرویس 10برابر پرسرعت کانال اطلاع‌رسانی VIP ویژه مشتریان دریافت سرویس تست VIPیه لایک بزن انرژی بگیریم ❤️
 
-trojan://telegram-id-privatevpns@13.37.144.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.27.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.236.214.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -130,5 +130,5 @@ trojan://telegram-id-privatevpns@3.123.83.170:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@3.64.121.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@63.181.59.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@52.47.134.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
