@@ -42,7 +42,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls
 
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#All_8--%40V2rayAlpha
 
-vless://212456b7-a367-4a75-fbc9-2be616d39aee@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://04ef20c2-2926-40f9-e0f8-f5abb3d4456f@github.seatech.ir:993?security=tls&encryption=none&headerType=http&type=tcp&sni=github.seatech.ir#%40ConfigV2RayNG
 
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.67.228.11:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -115,4 +115,6 @@ trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLC
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%3A%40v2rayvpno🆓 ===============================. 🆓۶🫥اگر متصل نشدی ؛ سنجاق رو چک کن ✅⭕️اینترنت آزاد و بدون فیلترینگ حق همه مردما🇮🇷 @Vpn_3vpn :ادمین فروش
 
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%3A%40v2rayvpno🆓 ===============================. 🆓🫥اگر متصل نشدی ؛ سنجاق رو چک کن ✅⭕️اینترنت آزاد و بدون فیلترینگ حق همه مردما🇮🇷 @Vpn_3vpn :ادمین فروش
+
+trojan://f0b09670-9e9a-48f2-acd5-5b6cc33c83c5@cdir-0303.wlfvip.shop:443?path=%2Ftrojanws%3Fed%3D2048&security=tls&host=cdir-0303.wlfvip.shop&type=ws&sni=cdir-0303.wlfvip.shop#ConfigV2RayNG
 
