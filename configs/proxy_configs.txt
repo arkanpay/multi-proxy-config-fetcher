@@ -1,34 +1,50 @@
+wireguard://0FEiV9b16z2%2FpWfXPTmExhlGmvQawEyIMhff24VAaX0%3D@162.159.192.5:1014?address=172.16.0.2%2F32&presharedkey=&reserved=68%2C223%2C255&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380#All--%40V2rayAlpha-8
+
+wireguard://2Ax5nKaBrfiMpaH1MNn8JG%2FrJH5WB11wbgad%2Bihcv0s%3D@162.159.192.9:7559?address=172.16.0.2%2F32&presharedkey=&reserved=12%2C174%2C107&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380#All--%40V2rayAlpha-4
+
+wireguard://2FaqTm%2BaXdVK00dvbeuMW%2Ft741BWYu9lNOOVtMI4R3Y%3D@162.159.192.11:3581?address=172.16.0.2%2F32&presharedkey=&reserved=80%2C103%2C64&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380#All--%40V2rayAlpha-9
+
 wireguard://4OEZ%2Fqt%2FFvNxAgLWI0JjkSZVUj1XBSLzVXTdUbgT124%3D@162.159.192.2:4500?address=172.16.0.2%2F32&reserved=225%2C250%2C131&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-27 10:04
+
+wireguard://8CBaFoNjMJ64gMWudh%2BrjxrHtCq0lktrhxseaYo2S0k%3D@162.159.192.20:903?address=172.16.0.2%2F32&presharedkey=&reserved=228%2C46%2C87&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380#All--%40V2rayAlpha-2
+
+wireguard://AJw%2Fou0GT1nJpVAhZgYGrw58NdI4vKwHP6hrcH%2FD3FQ%3D@162.159.195.2:1002?address=172.16.0.2%2F32&presharedkey=&reserved=72%2C160%2C156&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380#All--%40V2rayAlpha-3
+
+wireguard://ANsY0fuQkdRtj896H0fkDQr0hxoE3BfkxdIM9JKWx2E%3D@162.159.195.3:5279?address=172.16.0.2%2F32&presharedkey=&reserved=103%2C177%2C44&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380#All--%40V2rayAlpha-6
+
+wireguard://CBMxaub4dG7Q9W91x4%2BlUCqtF9eV1BN%2B4osBfWZNXHs%3D@162.159.195.4:2371?address=172.16.0.2%2F32&presharedkey=&reserved=225%2C17%2C205&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380#All--%40V2rayAlpha-1
+
+wireguard://CBMxaub4dG7Q9W91x4%2BlUCqtF9eV1BN%2B4osBfWZNXHs%3D@162.159.195.4:2371?address=172.16.0.2%2F32&presharedkey=&reserved=225%2C17%2C205&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380#All--%40V2rayAlpha-7
+
+wireguard://GCpkNcdHkbft3GDGx370jW6SZtYQ17C1CB2lV1QA92Q%3D@[2606:4700:d0::a29f:c003]:2408?address=172.16.0.2%2F32&presharedkey=&reserved=165%2C62%2C85&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380#All--%40V2rayAlpha-10
 
 wireguard://GF%2BN5zWYSvqiS1wtAFNfWiH1OI%2FZCOrHqhq8GVRp2Vc%3D@162.159.192.6:4500?address=172.16.0.2%2F32&reserved=67%2C216%2C191&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-26 18:03
 
 wireguard://IATgbe%2BPUxC3gxgtyUUpYP5jYai3lV5THqkFnCtKhFI%3D@162.159.192.5:2408?address=172.16.0.2%2F32&reserved=185%2C141%2C15&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-27 18:04
 
-wireguard://OIG%2BOSqD%2FChaYj%2FPcuBeIXkPOKJmIWXZNcJsDJST2GI%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=31%2C209%2C224&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-28 21:04
-
-wireguard://WIyH%2FN0%2Fg%2FrjyA0c3Md%2BrafFHZnIESIESYYZxbvbCk4%3D@162.159.192.5:4500?address=172.16.0.2%2F32&reserved=16%2C33%2C186&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-28 18:04
-
-wireguard://cJWkJtKyWCx35cAl6oDjUEZaXZabD08BLt%2FJpPQ1QUI%3D@162.159.192.7:2408?address=172.16.0.2%2F32&reserved=92%2C2%2C222&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-27 21:04
-
-wireguard://ePPqhbxnA84AbWXPashMWjSJ0NTUvkYRadEE4cWpdVw%3D@162.159.192.5:2408?address=172.16.0.2%2F32&reserved=121%2C196%2C24&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-29 18:04
-
-wireguard://gKcVGXy%2B6UlGGXxyE0sa2Vyh%2FjwjwkGmg4XQHrzuAGI%3D@162.159.192.5:500?address=172.16.0.2%2F32&reserved=89%2C155%2C208&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-28 10:04
-
-wireguard://sGWX6ErFwJAuyDs%2Fyi%2BKyDRbSYWY3c%2Bxh2Sjox2Y5XE%3D@162.159.192.5:2408?address=172.16.0.2%2F32&reserved=199%2C226%2C78&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-25 18:03
-
-wireguard://sNEYAwH50Xcdb2cl11AHJF6W6blx%2FXko6qOJh5YEJU8%3D@162.159.192.7:2408?address=172.16.0.2%2F32&reserved=93%2C141%2C171&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-25 21:03
+wireguard://IKDOz%2F9G%2F%2FYE7Srr1lDQvwm2wH7c2kHfzIAOvjERyHs%3D@[2606:4700:d0::a29f:c004]:8742?address=172.16.0.2%2F32&presharedkey=&reserved=120%2C35%2C122&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380#All--%40V2rayAlpha-5
 
 wireguard://uBCKU2Ui4SN0tPyfeLAtRy8si7kLt3yh9oCxMSKdNkI%3D@162.159.192.4:500?address=172.16.0.2%2F32&reserved=36%2C63%2C144&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-26 21:03
 
 wireguard://uGNCUkZHcKNA1tKeB7uoGva9rl34YZkOXsNDewswI1M%3D@162.159.192.3:4500?address=172.16.0.2%2F32&reserved=69%2C183%2C10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-26 10:03
 
-wireguard://yC5lRZVaC2%2B7drHTf0Yj10ZTZv6TTMnm2C%2B%2FRQdlxVM%3D@162.159.192.4:4500?address=172.16.0.2%2F32&reserved=176%2C80%2C55&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2025-12-29 10:04
-
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#All--%40V2rayAlpha-9
 
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#All--%40V2rayAlpha-10
 
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#All--%40V2rayAlpha-13
+
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#All--%40V2rayAlpha-11
+
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@129.151.115.91:443?security=tls&insecure=1&mport=50000-65535&sni=glby1.nezhasu.com#All--%40V2rayAlpha-18
+
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@145.241.187.70:443?security=tls&insecure=1&mport=50000-65535&sni=johannesburg-2.nezhasu.com#All--%40V2rayAlpha-15
+
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@152.67.50.33:443?security=tls&insecure=1&mport=50000-65535&sni=gysbl-2.nezhasu.com#All--%40V2rayAlpha-17
+
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.134.187:443?security=tls&insecure=1&mport=50000-65535&sni=johannesburg-3.nezhasu.com#All--%40V2rayAlpha-16
+
+hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.134.242:443?security=tls&insecure=1&mport=50000-65535&sni=johannesburg-4.nezhasu.com#All--%40V2rayAlpha-14
 
 vless://163a4840-588f-4b66-8444-2c9f182325b2@51.68.26.124:51928?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -44,9 +60,11 @@ vless://f2119e6c-685b-45bb-97de-229696cb30c7@brenna.ns.cloudflare.com:443?path=%
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIti52LbZiCDYtNmIIDogQHppYmFuYWJ6IiwNCiAgImFkZCI6ICJlYmMuem9vbS51cyIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiNDRlNTc0ODUtZWNjYy00NmVmLTgwOGYtY2QxN2FjODEwMDE4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogIm5vZGU0LnJ0eGNvbmZpZ3ouY29tIiwNCiAgInBhdGgiOiAiL0BNYWxpbmRhNjEwNCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJub2RlNC5ydHhjb25maWd6LmNvbSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
-vmess://eyJhZGQiOiI1LjIzMS41Ni45OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZjJmMDc2NS1mMzMxLTRkMWUtODU2MC1kMmZiNTMzZGQ2ZmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMzcyMSIsInBzIjoiQEhpQnllVlBOTuKdpO+4j+KAjfCflKXimqHimJjvuI8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon24
+vmess://eyJhZGQiOiI1LjIzMS41Ni45OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZjJmMDc2NS1mMzMxLTRkMWUtODU2MC1kMmZiNTMzZGQ2ZmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMzcyMSIsInBzIjoiQEhpQnllVlBOTuKdpO+4j+KAjfCflKXimqHimJjvuI8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon32
 
-vmess://eyJhZGQiOiI3NC4xMTcuMTk2LjIzMiIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiIzNWYzMzJkMC0wYjA1LTRjYzYtOTFjYi1lYzBkNDQ2NTA1NWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MjQxODUsInBzIjoi4p2MRnJlbW9udC1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon25
+vmess://eyJhZGQiOiI3NC4xMTcuMTk2LjIzMiIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiIzNWYzMzJkMC0wYjA1LTRjYzYtOTFjYi1lYzBkNDQ2NTA1NWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MjQxODUsInBzIjoi4p2MRnJlbW9udC1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon33
+
+vmess://eyJhZGQiOiIwdHE1dXgua2Vlb29tYm9vbS5kZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMHRxNXV4LmtlZW9vbWJvb20uZGUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby92cTJ0aDQ4aS5tM3U4IiwicG9ydCI6IjQ0MyIsInBzIjoiQWxsLUBWMnJheUFscGhhLS00Iiwic2N5IjoiYXV0byIsInNuaSI6IjB0cTV1eC5rZWVvb21ib29tLmRlIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon34
 
 vmess://eyJhZGQiOiIxOTAuOTMuMjQ0LjQiLCJ2IjoyLCJwcyI6ImRlZmF1bHRfbmFtZSIsInBvcnQiOjQ0MywiaWQiOiIxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiL0EyREpPUEZUIiwiaG9zdCI6ImxnMTAuY2ZjZG4xLnh5eiJ9
 
@@ -54,17 +72,15 @@ vmess://eyJhZGQiOiIyMDMuMzAuMTg5LjE5MCIsInYiOjIsInBzIjoi8J+Hp/Cfh79fQlpf5Lyv5Yip
 
 vmess://eyJhZGQiOiJ1aWNkbi5jZiIsInYiOjIsInBzIjoiZGVmYXVsdF9uYW1lIiwicG9ydCI6ODAsImlkIjoiNmZlYTE2NDktNDI1Yi00MDkyLWJmNTMtMjk3OTIxNTJjOTI1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9zc2hraXQvZmRmYWRzZmEvNjM4NDhiZmUyMjhmZC8iLCJob3N0IjoidXMtbGIuc3Noa2l0Lm9yZyJ9
 
-vmess://eyJhZGQiOiJ3dXNwbmQuemVlb29tYm9vbS5kZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3VzcG5kLnplZW9vbWJvb20uZGUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby9icmhzZjkubTN1OCIsInBvcnQiOiI0NDMiLCJwcyI6IkFsbC1AVjJyYXlBbHBoYS0tMTUiLCJzY3kiOiJhdXRvIiwic25pIjoid3VzcG5kLnplZW9vbWJvb20uZGUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon29
+vmess://eyJhZGQiOiJ3dXNwbmQuemVlb29tYm9vbS5kZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3VzcG5kLnplZW9vbWJvb20uZGUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby9icmhzZjkubTN1OCIsInBvcnQiOiI0NDMiLCJwcyI6IkFsbC1AVjJyYXlBbHBoYS0tMTUiLCJzY3kiOiJhdXRvIiwic25pIjoid3VzcG5kLnplZW9vbWJvb20uZGUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon38
 
-vmess://eyJhZGQiOiJiYXhhbWR5ZmEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnh6bWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NCB8IDAuM3hfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon30
+vmess://eyJhZGQiOiJiYXhhbWR5ZmEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnh6bWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NCB8IDAuM3hfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon39
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYzRxbm5xVmpLa3IwV1pTam1nRkRu@62.133.60.60:7048#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXWmVNZDkxb2JXeG9jSlU4VXdOOXVV@45.95.232.236:4248#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
