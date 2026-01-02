@@ -104,13 +104,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ%
 
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=%2F156.254.114.120%3A30011&security=tls&host=seashell.qzz.io&type=ws&sni=seashell.qzz.io#WiFi--%40V2rayAlpha-3
 
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@ct.090227.xyz:443?path=%2Fproxyip%3D210.61.97.241%3A81&security=tls&host=cm2-bpg.filegear-sg.me&type=ws&sni=cm2-bpg.filegear-sg.me#All--%40V2rayAlpha-1
+
 trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?path=%2F152.32.255.24%3A587&security=tls&host=tronblue.qzz.io&type=ws&sni=tronblue.qzz.io#WiFi--%40V2rayAlpha-2
 
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#vpn⚜️More : @ZibaNabz
 
 trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&type=tcp#WiFi--%40V2rayAlpha-1
-
-trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?security=reality&pbk=BNDEyo7JzKrJ1xPgFNJv5P-emcPIoiUkGZ6OUmlctU4&headerType=none&fp=chrome&type=tcp&sni=wikipedia.org&sid=20b8da6c1f3a9ed7#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 trojan://telegram-id-privatevpns@13.38.25.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%B5t.me%2FConfigV2RayNG
 
