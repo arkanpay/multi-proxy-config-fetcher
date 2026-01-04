@@ -42,11 +42,11 @@ hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.134.187:443?security=tls&i
 
 hysteria2://d9812081-7f61-456d-9340-a1fb8dfd603b@84.8.134.242:443?security=tls&insecure=1&mport=50000-65535&sni=johannesburg-4.nezhasu.com#All--%40V2rayAlpha-14
 
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2F%3Fed%3D2560%26Telegram%40V2rayAlpha&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2F%3Fed%3D2560%26Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2FVpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=%2F%3Fed%3D2560%26&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=%2F%3Fed%3D2560%26Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
@@ -92,25 +92,15 @@ vmess://eyJhZGQiOiJzZWEyMS5uYjEuZnIiLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.185.37:990#ALL-%40V2rayAlpha--37
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUXlBVUl0YWZVbW1PM0VaWng5VWJpWDZJR3lkU0JnTA%3D%3D@45.12.144.18:443#WiFi-%40V2rayAlpha--4
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTU9wVjJYQ29NT0JZc0tHQWpMRG1zS2t3NmJEcE1Pa2RWaHREMTVmd3BRcXc3MEFOOEtydzZBeUg4T2FDUT09@51.195.203.247:8443#WiFi-%40V2rayAlpha--5
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#WiFi-%40V2rayAlpha--2
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ%3D%3D@95.164.116.33:443#WiFi-%40V2rayAlpha--1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ%3D%3D@95.164.116.33:443#WiFi-%40V2rayAlpha--3
-
-trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=%2F156.254.114.120%3A30011&security=tls&host=seashell.qzz.io&type=ws&sni=seashell.qzz.io#All-%40V2rayAlpha--4
-
-trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?path=%2F152.32.255.24%3A587&security=tls&host=tronblue.qzz.io&type=ws&sni=tronblue.qzz.io#All-%40V2rayAlpha--3
 
 trojan://5a2c16f9@162.159.24.131:443?path=%2F%252F&security=tls&insecure=1&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#All-%40V2rayAlpha--2
 
 trojan://5a2c16f9@172.208.36.45:80?path=Telegram%40V2rayAlpha&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#All-%40V2rayAlpha--1
+
+trojan://5a2c16f9@199.119.137.77:2053?path=Telegram%40V2rayAlpha&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#All-%40V2rayAlpha--3
+
+trojan://5a2c16f9@98.70.26.236:443?path=Telegram%40V2rayAlpha&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#All-%40V2rayAlpha--1
 
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#vpn⚜️More : @ZibaNabz
 
@@ -118,13 +108,13 @@ trojan://CH1uIwV42k@5.175.249.117:443?security=reality&host=www.namasha.com%2C+s
 
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&host=blueivy.qzz.io&type=ws&sni=blueivy.qzz.io#ALL-%40V2rayAlpha--17
 
-trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&host=blueivy.qzz.io&type=ws&sni=blueivy.qzz.io#WiFi-%40V2rayAlpha--6
-
 trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443?path=%2F46.232.122.240%3A8000&security=tls&host=ivory.qzz.io&type=ws&sni=ivory.qzz.io#ALL-%40V2rayAlpha--14
-
-trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443?path=%2F46.232.122.240%3A8000&security=tls&host=ivory.qzz.io&type=ws&sni=ivory.qzz.io#All-%40V2rayAlpha--2
 
 trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=%2F66.135.4.222%3A8443&security=tls&host=bisque.qzz.io&type=ws&sni=bisque.qzz.io#ALL-%40V2rayAlpha--18
 
-trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=%2F66.135.4.222%3A8443&security=tls&host=bisque.qzz.io&type=ws&sni=bisque.qzz.io#All-%40V2rayAlpha--1
+trojan://telegram-id-privatevpns@13.39.11.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@35.180.5.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@52.58.152.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
