@@ -1,7 +1,5 @@
 wireguard://%2BH8V48mBbTI1Og0idyYdP%2FAD0PuhOmxH%2B3wSnf1X1Hc%3D@162.159.192.1:4500?address=172.16.0.2%2F32&reserved=96%2C54%2C124&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-01-08 10:04
 
-wireguard://2O15%2FiCYNo9Jabo6S4wIMGS4v%2BEf1GJ13CgCv0DRolk%3D@162.159.192.5:2408?address=172.16.0.2%2F32&reserved=246%2C249%2C100&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-01-05 10:02
-
 wireguard://COftyImRmznx5epZZQ75HEC56QwZ%2FBDhGSIDWxFs5E0%3D@162.159.192.2:2408?address=172.16.0.2%2F32&reserved=127%2C76%2C59&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-01-06 21:03
 
 wireguard://IFf6tVFwNnJ0VSvWKWs2oMFg7d4pBG76niK6cSvVmXs%3D@162.159.192.7:2408?address=172.16.0.2%2F32&reserved=88%2C223%2C69&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-01-06 10:03
@@ -17,6 +15,8 @@ wireguard://qEh4wxqHPIt2lgyhDjtFVzO%2Bt7Z4aCAmkDa%2BMAJuH0Y%3D@162.159.192.7:240
 wireguard://sF3H2vU4zcv0%2BBY0mhNkxwjJtjEfRmSgC24Fl2FBBHM%3D@162.159.192.4:2408?address=172.16.0.2%2F32&reserved=126%2C5%2C160&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-01-07 18:03
 
 wireguard://yPhoebvatJoNly8ZDrvDu0j6sNZvqlXRoIvbu9lA%2BUs%3D@162.159.192.6:4500?address=172.16.0.2%2F32&reserved=230%2C12%2C189&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-01-06 18:03
+
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86 فیلترشکن متصل در شرایط فعلی ✅آموزش استفاده |⬜️برنامه مورد نیاز✅ @V2rayNGVPN
 
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@146.56.164.36:443?security=tls&insecure=1&mport=35000-39000&sni=api.push.apple.com#All-%40V2rayAlpha--1
 
@@ -98,15 +98,13 @@ trojan://telegram-id-privatevpns@13.36.59.157:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@13.37.117.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@13.38.235.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@15.188.161.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.64.242.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@35.157.192.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@35.181.130.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@51.45.22.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@52.29.65.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@52.47.106.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -115,4 +113,6 @@ trojan://telegram-id-privatevpns@63.180.81.138:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@63.181.201.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.181.28.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@63.182.15.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
