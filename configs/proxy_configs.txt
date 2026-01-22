@@ -94,9 +94,9 @@ trojan://telegram-id-privatevpns@3.67.156.93:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@3.68.82.119:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
 
-trojan://telegram-id-privatevpns@3.9.12.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+trojan://telegram-id-privatevpns@3.76.159.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@35.180.16.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@3.9.12.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://xl87654321@stonebreak.online:443?security=tls&headerType=none&type=tcp#ConfigV2RayNG
 
