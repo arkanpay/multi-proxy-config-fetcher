@@ -78,17 +78,21 @@ vmess://eyJhZGQiOiIxODguNDIuODkuMTE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vmess://eyJhZGQiOiJhc2Jhd3VmaC4xMTQ1MTQ3ODIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXV2YndicyIsInBvcnQiOjIwNTIsInBzIjoi576O5Zu95Lic6YOo6Zi/5LuA5pysMiB8IDAuNXhfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon40
 
-vmess://eyJhZGQiOiJkZWFybWIuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYW5jaWhncnQiLCJwb3J0IjoyMDUyLCJwcyI6IuW+t+WbvTIgfCAwLjV4XzIiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon41
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#MCI-%40V2rayAlpha--3
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA@45.89.55.173:443#All-%40V2rayAlpha--2
 
-ss://YWVzLTEyOC1nY206c2hpc0NmZlZyVmVlWW5lTGI2aGNHNFFodTJjWEpYNkY@205.209.104.91:17895#All-%40V2rayAlpha--1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#MCI-%40V2rayAlpha--2
 
-trojan://1egf751v52w6@172.64.145.38:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=1&host=konbu3yh7or1gdj6win7zyxp9e6h3ndhfpr6snxzhh.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=konbu3yh7or1gdj6win7zyxp9e6h3ndhfpr6snxzhh.zjde5.de5.net#All-%40V2rayAlpha--10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#MCI-%40V2rayAlpha--1
+
+ss://YWVzLTEyOC1nY206c2hpc0NmZlZyVmVlWW5lTGI2aGNHNFFodTJjWEpYNkY@205.209.104.91:17895#All-%40V2rayAlpha--1
 
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#All-%40V2rayAlpha--4
 
-trojan://n875vm39ii96@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net&fp=random&type=ws&allowInsecure=0&sni=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net#All-%40V2rayAlpha--11
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#MCI-%40V2rayAlpha--17
+
+trojan://humanity@172.64.155.209:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#MCI-%40V2rayAlpha--4
 
 trojan://telegram-id-privatevpns@13.36.144.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
