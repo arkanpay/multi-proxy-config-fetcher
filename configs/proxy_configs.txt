@@ -112,6 +112,8 @@ trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&insecur
 
 trojan://f0b09670-9e9a-48f2-acd5-5b6cc33c83c5@cdir-0303.wlfvip.shop:443?path=%2Ftrojanws%3Fed%3D2048&security=tls&host=cdir-0303.wlfvip.shop&type=ws&sni=cdir-0303.wlfvip.shop#ConfigV2RayNG
 
+trojan://telegram-id-privatevpns@13.36.49.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@13.38.42.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@13.50.135.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
@@ -125,8 +127,6 @@ trojan://telegram-id-privatevpns@18.193.240.40:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@3.68.213.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
 
 trojan://telegram-id-privatevpns@3.76.228.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@35.180.200.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@52.47.70.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
