@@ -4,8 +4,6 @@ wireguard://0EB2YyBIcMu41ckoweRb3YtWzgsIMqwbQw3h6gULxFo%3D@162.159.192.1:4500?ad
 
 wireguard://2PVqQ6pOAlU2vZrgBEWww0Z01WqzUG4PN0tMw%2BDFUUg%3D@162.159.192.1:500?address=172.16.0.2%2F32&reserved=204%2C162%2C225&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-01-30 18:03
 
-wireguard://EKtr2Mn8VeYSM5PeBmKIuUsLLRX4uTwEt0U2IyQrT3Q%3D@162.159.192.6:500?address=172.16.0.2%2F32&reserved=73%2C246%2C11&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-01-30 10:03
-
 wireguard://GE9MWsFNrAyMk4Cpk8e5t4EDN57LL%2BcPVla86JZJVUw%3D@162.159.192.2:500?address=172.16.0.2%2F32&reserved=36%2C251%2C253&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-02 18:04
 
 wireguard://GIYUR9bJtf2N%2BlACrZ7VIQqkyShku3pKwSW07FfcB1M%3D@162.159.192.4:4500?address=172.16.0.2%2F32&reserved=0%2C166%2C242&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-01 18:04
@@ -28,13 +26,11 @@ wireguard://oN8b1bKH5efz3lsnrxH1v1PPP183CpfTd%2FGFAmRNh1k%3D@162.159.192.1:4500?
 
 wireguard://qDGLUvHTEuXs8LUY4tqGEKNcH9xr4YaLdIpAOWz%2FqFM%3D@162.159.192.3:2408?address=172.16.0.2%2F32&reserved=155%2C57%2C214&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-01 10:04
 
-vless://0b00bece-21f5-4623-8b47-547923531970@de.kaia.pw:40159?path=%2F&security=none&encryption=none&type=ws#%40ConfigV2RayNG
-
-vless://0b00bece-21f5-4623-8b47-547923531970@de.kaia.pw:40159?path=%2F&security=none&encryption=none&type=ws#ConfigV2RayNG
-
-vless://1580e69b-fc87-41e5-a0be-f4e254a3c17f@VPNCUSTOMIZE.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=ch.loveislam.top#ConfigV2RayNG
+wireguard://qFAbmNR9i584w1l9HGhiuTWXNgvh4wXrCjb9aNXYr2c%3D@162.159.192.4:4500?address=172.16.0.2%2F32&reserved=21%2C12%2C91&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-04 10:00
 
 vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@ipbaz.ping-box.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=teams.live.com.afrcloud1.c01.kr&type=ws&allowInsecure=0&sni=teams.live.com.afrcloud1.c01.kr#MCi-%40V2rayAlpha-3
+
+vless://34dae96c-1a41-434f-94b6-5507c3a6d318@dlc-nl1.persianpinggame.ir:443?security=reality&encryption=none&pbk=FRhlZqNN8KVTgQ-yS-7WTqNjSi9Mhy-ItbmSqcnn5EM&headerType=none&fp=random&type=tcp&sni=yahoo.com&sid=274e8f5c1c9feb3f#IR-%40V2rayAlpha-3
 
 vless://3e4cf35f-ce6a-4275-feae-b69f03bf3a47@185.231.180.136:39846?security=none&encryption=none&headerType=none&type=tcp#%40FarazV2rayALL NET
 
@@ -45,6 +41,10 @@ vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@108.162.198.154:2087?mode=auto&path
 vless://666250e3-362e-440a-b9e3-2b7794c02af8@78.159.122.223:443?security=reality&encryption=none&pbk=NLARt-womsWqopLrSLNpfp3bHXy3Pg08_LbFUQPhpjU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=de-two.asbndx.com&sid=0f4dacf82203e11f#MCi-%40V2rayAlpha-10
 
 vless://6ef1b079-e936-4c37-b4b4-8e59baf31eb8@108.162.198.154:2096?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&insecure=1&host=yxk.longlivecpc.dpdns.org&type=ws&allowInsecure=1&sni=yxk.longlivecpc.dpdns.org#MCi-%40V2rayAlpha-6
+
+vless://a75cf6f3-10fb-461b-a5a5-a934f6039cce@cdn.halazzon.ir:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&insecure=0&host=afrcloud4.c01.kr&type=ws&allowInsecure=0&sni=afrcloud4.c01.kr#IR-%40V2rayAlpha-4
+
+vless://ca911bd2-e08f-42d8-aefb-3117494d3367@mskhost.outlinekeys.net:443?security=reality&encryption=none&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mskhost.outlinekeys.net#IR-%40V2rayAlpha-3
 
 vless://ce7f5e28-d72d-4006-8d70-f428a4721910@144.31.139.184:443?security=reality&encryption=none&pbk=LgAGxbqysnVx7SUMkS1A5kRLqiRMPWC5pXgoGYzj-0s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mailru.outlinekeys.net#MCi-%40V2rayAlpha-9
 
@@ -68,27 +68,21 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVk1FU1Mt576O5Zu9LU5G6Kej6ZSB6Ieq5Yi25Ymn
 
 vmess://eyJhZGQiOiI1LjgzLjE1MC4xMDgiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiMjcxMDRmYWUtZjA0Ny00OTkzLTkwMmEtOTM2OGQ4YTNlOWJjIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjM5MzAwLCJwcyI6IuKdjETDvHNzZWxkb3JmLUdldEFGcmVlTm9kZS5jb20iLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon35
 
-vmess://eyJhZGQiOiIxMjkuMTUyLjEzLjExNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiWVRCLWF3a2oiLCJpZCI6IjUyNzY4NTUyLWMyYjItNDQ2MC04OWYxLWU3NDBjYzE0NWI5OSIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy1wYXRoIiwicG9ydCI6IjExNjkxIiwicHMiOiJAQ29uZmlnVjJSYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxOTguMjQ0LjIzMi4zOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiZGY0NjM4NGItMWFkNS00MGE2LTgxMmUtNDhkNjBmYjgwMjgzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk2IiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=@v2rayNG_VPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon37
+vmess://eyJhZGQiOiIxOTguMjQ0LjIzMi4zOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiZGY0NjM4NGItMWFkNS00MGE2LTgxMmUtNDhkNjBmYjgwMjgzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk2IiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=@v2rayNG_VPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon36
 
 vmess://eyJhZGQiOiIzNS4xNTYuMTc3Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI4YTE2YmE0Zi1mMjBkLTQ5YTMtOTg2MS1kNjkzOTE1ZmQwOGQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjU1MTY0IiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vmess://eyJhZGQiOiJhcnNhbGFuLmFyc2FsYW52My5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFyc2FsYW4uYXJzYWxhbnYzLnNicyIsImlkIjoiYzIxOWIzM2YtZjNjMy00ZjcwLTllMTItNzliNDYxOGEyMTBlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk1IiwicHMiOiJDb25maWdWMlJheU5HIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiJiYXhhbWR5ZmEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnh6bWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NCB8IDAuM3hfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon40
+vmess://eyJhZGQiOiJiYXhhbWR5ZmEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnh6bWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NCB8IDAuM3hfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon38
 
 vmess://eyJhZGQiOiJmYXJ6YWQudmlwZ3NtdGVhbS5pbmZvIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ6dWxhLmlyIiwiaWQiOiIzZGIwNzc0NS00YmE1LTQ2NjMtOGViNC1jNzc5NmQ2N2U5ZTYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMzk1MyIsInBzIjoiTUNpLUBWMnJheUFscGhhLTEyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380#%40FarazV2ray
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dXgyR1NXNnpiMEQ5b3RleEtqZExU@3.71.8.230:8682#ConfigV2RayNG
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMDQ3MDM2YzQ1NTk2NjA1@57.129.94.79:11208#%40FarazV2ray
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMzNjNGNhZTAxZjhiYWNm@135.125.247.29:11201#All-%40V2rayAlpha-1
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCM05yVUx2Wkp0MU5WUmRiUllXWkVW@3.120.251.197:19347#ConfigV2RayNG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMGZiMjgwNWVlOTMxNjkx@54.37.77.214:11201#All-%40V2rayAlpha-3
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMGZiMjgwNWVlOTMxNjkx@54.37.77.214:11201#MCI-%40V2rayAlpha-1
 
@@ -97,6 +91,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTE5YTQ0MjI3NzMwNWRi@37.59.24.117:10018#IR-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTc0NTczYmViM2YzMGQ0@57.128.30.201:11201#MCI-%40V2rayAlpha-3
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTA2MGE4ZGUzNDY3MTc0@57.128.190.212:10013#MCI-%40V2rayAlpha-2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYmY5MTVlZGE1NGJkZmFj@141.95.107.129:11201#All-%40V2rayAlpha-3
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGQzNTlmNTk0ZGVhODQy@141.95.105.163:11201#MCi-%40V2rayAlpha-8
 
@@ -120,21 +116,21 @@ trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.57.238:1933?security=tls&insecu
 
 trojan://c1d83c0c7d57cead4379ba14a82df69b@38.180.137.196:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#N%2FA-%40V2rayAlpha-5
 
-trojan://f0b09670-9e9a-48f2-acd5-5b6cc33c83c5@cdir-0303.wlfvip.shop:443?path=%2Ftrojanws%3Fed%3D2048&security=tls&host=cdir-0303.wlfvip.shop&type=ws&sni=cdir-0303.wlfvip.shop#ConfigV2RayNG Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#IR-%40V2rayAlpha-1
 
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%40FarazV2ray
 
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#N%2FA-%40V2rayAlpha-7
 
-trojan://telegram-id-directvpn@35.92.246.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our+Channel+%3A+%40ConfigV2RayNG
+trojan://telegram-id-privatevpns@13.38.161.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-directvpn@50.112.12.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
+trojan://telegram-id-privatevpns@3.64.113.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-directvpn@50.112.12.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Our+Channel+%3A+%40ConfigV2RayNG
+trojan://telegram-id-privatevpns@3.67.73.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@3.68.213.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNG
+trojan://telegram-id-privatevpns@3.75.160.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@3.75.191.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNG
+trojan://telegram-id-privatevpns@35.180.14.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@51.44.32.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
