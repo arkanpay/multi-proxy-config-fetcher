@@ -54,5 +54,5 @@ trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecu
 
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#vpn⚜️More : @ZibaNabz
 
-trojan://humanity@www.gossipglove.com:443?path=%252Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#IR--%40V2rayAlpha-14
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#IR-%40V2rayAlpha--4
 
