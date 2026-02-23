@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-23T06:06:01.602693",
+  "timestamp": "2026-02-23T08:07:43.744071",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -64,8 +64,8 @@
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     }
   ]
 }
