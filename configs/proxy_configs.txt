@@ -28,13 +28,7 @@ vless://01973bf7-048a-4dc6-a82b-2fa3be7046a5@45.85.119.44:2083?mode=gun&security
 
 vless://49d880ff-ab62-4f2f-a8fb-4c84e6181aae@VPNCUSTOMIZE2.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=ch.loveislam.top#ConfigV2RayNG
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#All-%40V2rayAlpha--9
-
-vless://7e01bdb1-07b2-415d-abe4-e94e75f15dfc@fn22.finuxmaster.shop:2095?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#All-%40V2rayAlpha--10
-
-vless://81b73edd-d42d-ff2f-051d-6600595e406d@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#All-%40V2rayAlpha--11
-
-vless://958f6b9f-1628-4816-b3b6-7cdf4dc8cf03@6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:705?security=none&encryption=none&host=rubika.ir%2C%2Bigap.net%2C%2Bsplus.ir%2C%2Bskyroom.online&headerType=http&type=tcp#All-%40V2rayAlpha--12
+vless://75e13bcc-139b-4fe7-8525-548c8cfca08d@144.76.188.130:443?type=ws&encryption=none&path=%2F&host=&security=none#%40mohammad_h201%20-%20%40MatinSenPaii-fnq8fl7x
 
 vless://a0d7cdab-5821-4477-b0c2-33c0060baf62@vip-meli3.nightgemshop.com:443?security=none&encryption=none&headerType=none&type=tcp#All-%40V2rayAlpha--4
 
@@ -44,13 +38,19 @@ vless://b1e54079-188b-4715-9488-2bce140ee9e3@afk.mrsf.ir:37542?security=none&enc
 
 vless://b35cd4e8-e193-4bbd-9084-91d73d2353f0@i.badboys.gq:443?path=%2Fo8q9OHerR9LI4jhrTESVxpF0X%2Fvlessws&security=tls&encryption=none&host=nl1.digi2023game.com&type=ws&sni=nl1.digi2023game.com#%40ConfigV2RayNG
 
-vless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?path=ws&security=tls&encryption=none&insecure=0&host=hex.1tb.workers.dev&type=ws&allowInsecure=0&sni=hex.1tb.workers.dev#All-%40V2rayAlpha--8
-
 vless://d46b43e7-96bf-49dd-db29-63e786e43407@VPNCUSTOMIZE.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=ch.loveislam.top#ConfigV2RayNG
 
 vless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#All-%40V2rayAlpha--6
 
 vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=myket.ir&type=ws&sni=myket.ir#All-%40V2rayAlpha--7
+
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@107.175.134.127:443?type=ws&encryption=none&path=%2F&host=&security=none#%40SamNet%20-%20US%20107-vless
+
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@142.171.65.106:443?type=ws&encryption=none&path=%2F&host=&security=none#%40SamNet%20-%20US%20142-vless
+
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:443?type=ws&encryption=none&path=%2F&host=&security=none#%40SamNet%20-%20US%20198-vless
+
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?type=ws&encryption=none&path=%2F&host=&security=none#%40SamNet%20-%20US%2023-vless
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICJuMTc1MzM0ODczNi5saWU1ZC5jeW91IiwgInBvcnQiOiA0NDMsICJpZCI6ICJmMjY3ZWFjMy1kZmI0LTQ1YmUtYTQ4MC03ZTE4NDdjYTA0YWIiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogImF1dG8iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon28
 
@@ -81,6 +81,12 @@ vmess://eyJhZGQiOiJqb2tlcnYycmF5LWlkLXRlbGVncmFtLWpvaW4uYmVkZWJva29uaW12aXAudGsi
 vmess://eyJhZGQiOiJwd2EucGVyc2lhbmtpZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjOTA1OTQ1MS01MzEzLTQyZjktYzRkNy1jNDU1ZWU2NTExNzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3JhcGhxbCIsInBvcnQiOiI5OTMiLCJwcyI6IkNvbmZpZ1YyUmF5TkciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJzMS5oYW1pc2hlLmNsb3VkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkaXZhci5pciIsImlkIjoiM2RiOTJjZWYtZWQ3Zi00ZTRhLTg1NGYtMzcyODRhOTM2MmRiIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTEwIiwicHMiOiLYqNuM2Kcg2KfbjNmG2KzYpyBDb25maWdWMlJheU5HQCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon42
+
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206QVNNa0N3L1NNQThNelpLOHR2NXZOdz09OkFTTWtDdy9TTUE4TXpaSzh0djV2Tnc9PQ==@142.171.65.106:8388#%40SamNet%20-%20US%20142-ss
+
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206T01KSklTOUY1aXZydDdzNXNiNU5xZz09Ok9NSkpJUzlGNWl2cnQ3czVzYjVOcWc9PQ==@107.175.134.127:8388#%40SamNet%20-%20US%20107-ss
+
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Z2hWUUk0bjlpMURWODI1b1dkd2JUZz09OmdoVlFJNG45aTFEVjgyNW9XZHdiVGc9PQ==@23.95.113.104:8388#%40SamNet%20-%20US%2023-ss
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@81.90.189.18:811#%40V2rayAlpha--1
 
