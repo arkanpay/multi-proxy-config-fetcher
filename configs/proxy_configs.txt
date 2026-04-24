@@ -34,7 +34,9 @@ vless://125563cb-af6a-4152-bf74-892132c32105@185.143.234.235:2052?encryption=non
 
 vless://1d509c22-4e43-4067-9185-873ec5bb49da@de4.b762plus.shop:2017?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#canfingV2rayNG-58 Need a premium VPN config? Try @failvpn_bot
 
-vless://1de37726-744b-46e1-9101-c926b3402e82@104.17.72.206:80?security=none&encryption=none&host=v2.v2configlab.workers.dev&type=ws#Psiphon--%40V2rayAlpha--29
+vless://37d81363-f2c9-46a4-83ad-54dda46f726f@185.143.233.5:443?encryption=none&type=ws&host=dn.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=dn.8lack.ir&alpn=h2,http/1.1#filembad-115 Need a premium VPN config? Try @failvpn_bot
+
+vless://45a28c16-d212-4082-9eff-4f232edaa847@naggout.oblivionspark.com:1094?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-128 Need a premium VPN config? Try @failvpn_bot
 
 vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-115 Need a premium VPN config? Try @failvpn_bot
 
@@ -48,15 +50,13 @@ vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryp
 
 vless://71271480-04bd-45ae-9de5-fb7eb15b57be@vzbw.piko-network.top:1433?path=%2F&security=none&encryption=none&type=ws#ProxyMtpVPN-160 Need a premium VPN config? Try @failvpn_bot
 
-vless://7642e59d-dc9d-4019-8805-a5c022c8a850@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#filembad-174 Need a premium VPN config? Try @failvpn_bot
+vless://8af50940-460b-465b-af62-c951005cadaf@185.143.233.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#LoopLine_Ir-209 Need a premium VPN config? Try @failvpn_bot
+
+vless://8af50940-460b-465b-af62-c951005cadaf@185.143.233.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#LoopLine_Ir-216 Need a premium VPN config? Try @failvpn_bot
 
 vless://b93a3c44-478a-4d64-989e-4602ccc5e184@87.107.146.145:14371?security=none&encryption=none&headerType=none&type=tcp#Psiphon--%40V2rayAlpha--22
 
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#canfingV2rayNG-286 Need a premium VPN config? Try @failvpn_bot
-
 vless://f20de03b-c016-45cd-a6e2-d73713fa1fe0@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%40UnNurmal%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
-
-vless://f8354889-2587-47c7-9916-2d2575d7b26d@snapp.ir:8080?path=%2F&security=none&encryption=none&host=hi.jahansportmarkazi.ir&type=ws#Psiphon--%40V2rayAlpha--26
 
 vmess://eyJhZGQiOiI0Ni4zNC4xNjMuODkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTQ5MWU1MjYtYTI5MC00ZDk5LWJlYTktYzBmNDcxNWIzNDUzIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiNDMyMzUiLCJwcyI6IlBzaXBob24tLUBWMnJheUFscGhhLS00MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 
@@ -75,6 +75,8 @@ vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlk
 vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg0MTEyNDY4LWM1YjMtNGY5OC04YjJjLTRjY2E3NzUyMjk5MCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODA5MyIsInBzIjoiUHNpcGhvbi0tQFYycmF5QWxwaGEtLTI1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRmNDY4NTY2LWMzZjctNGM4My1iYjJjLWFjZjY4M2U0NGQ1NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODA5MyIsInBzIjoiUHNpcGhvbi0tQFYycmF5QWxwaGEtLTI3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiJjZG4uaXAtc3RhdGljLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiRklOMDAzLm1pZGFzbmV0LndvcmsiLCJpZCI6ImE5MzExZmYyLTE0YmYtNGJhNi04NjAxLTQyMDI4YTdlM2E4NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlBzaXBob24tQFYycmF5QWxwaGEtLTM3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiJzbmFwcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGFyeGhpbnRlYW0uYnJhdm8tc2l4LmlyIiwiaWQiOiI3MGIyZTVhNi02OGViLTRmMmEtYTVhYS1hZDgyNTQ4MzMyOGUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJQc2lwaG9uLS1AVjJyYXlBbHBoYS0tNjIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
