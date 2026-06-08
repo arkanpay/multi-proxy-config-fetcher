@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-08T17:51:52.355947",
+  "timestamp": "2026-06-08T20:12:58.261899",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -16,8 +16,8 @@
     {
       "url": "https://t.me/s/ZibaNabz",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/configV2rayForFree",
@@ -34,8 +34,8 @@
     {
       "url": "https://t.me/s/V2ray_Alpha",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/SvnV2ray",
