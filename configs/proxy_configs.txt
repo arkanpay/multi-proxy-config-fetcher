@@ -28,7 +28,7 @@ wireguard://yMBpQXZp958B3UYpekMMwq%2FhjI%2FLLaqt8VI44lE87VY%3D@162.159.192.7:240
 
 vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#canfingV2rayNG-113 Need a premium VPN config? Try @failvpn_bot
 
-vless://20d21fbc-0965-4f8e-9d21-ed31fac8ade9@45.74.178.108:2053?security=none&encryption=none&type=ws#ProxyMtpVPN-119 Need a premium VPN config? Try @failvpn_bot
+vless://40b46f64-d8a5-4496-b86f-1d6db7d4bf39@95.179.159.222:19436?encryption=none&security=none&type=tcp@oliver soul#canfingV2rayNG-195 Need a premium VPN config? Try @failvpn_bot
 
 vless://40de6299-d792-4868-8a82-411ead0aa943@nl.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#V2ray_Alpha%F0%9F%A4%8E%202
 
@@ -42,29 +42,29 @@ vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&securit
 
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#V2ray_Alpha%F0%9F%A4%8E%203
 
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#canfingV2rayNG-306 Need a premium VPN config? Try @failvpn_bot
-
 vless://ac64c5d1-45fa-4a0b-83ee-df89fe433006@140.233.177.28:39521?security=&encryption=none&headerType=&type=tcp#filembad-394 Need a premium VPN config? Try @failvpn_bot
 
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&headerType=none&fp=random&spx=%2FHesarWeb&type=tcp&flow=xtls-rprx-vision&sni=hasty-dolphin.cdn.cachefleet.com#filembad-434 Need a premium VPN config? Try @failvpn_bot
 
-vless://d7c4acc4-a577-44f5-a47b-5850996db408@188.166.146.23:24568?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#ProxyMtpVPN-468 Need a premium VPN config? Try @failvpn_bot
+vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@194.5.65.36:443?encryption=none&security=reality&sni=ya.ru&fp=random&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&sid=72cd47c079c0a3df&type=xhttp&path=%2F&mode=auto#filembad-476 Need a premium VPN config? Try @failvpn_bot
 
-vless://da557d0f-dc4e-47b9-bfcb-5d9f0de39eb3@91.98.154.118:41291?encryption=none&type=ws&host=play.google.com&path=/&security=none#filembad-481 Need a premium VPN config? Try @failvpn_bot
+vless://d7c4acc4-a577-44f5-a47b-5850996db408@188.166.146.23:24568?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#ProxyMtpVPN-468 Need a premium VPN config? Try @failvpn_bot
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.75.14:22223?security=none&encryption=none&headerType=none&type=tcp#filembad-497 Need a premium VPN config? Try @failvpn_bot
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22223?encryption=none&security=none&type=tcp&headerType=none#filembad-513 Need a premium VPN config? Try @failvpn_bot
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.75.14:22224?security=&encryption=none&headerType=&type=tcp#filembad-507 Need a premium VPN config? Try @failvpn_bot
+
+vless://eaa3cc1a-c3cd-48d6-b4d2-f3b84c05bd4a@d.mygoldiran.com:443?path=%2Fidea&security=tls&encryption=none&insecure=0&host=usa_multi.mygoldiran.com&type=ws&allowInsecure=0&sni=usa_multi.mygoldiran.com#ProxyMtpVPN-536 Need a premium VPN config? Try @failvpn_bot
 
 vmess://eyJhZGQiOiI4Mi4xMTUuMjEuMTM5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk3ZGExMTBjLWI0NjktNDczZS1iZDA3LWM4Yzc4YWMxNmNmMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjEyOTIiLCJwcyI6IkBWMnJheV9BbHBoYfCfkZwgNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@144.24.226.184:61312#filembad-9 Need a premium VPN config? Try @failvpn_bot
 
+ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@173.212.251.231:51058?#filembad-22 Need a premium VPN config? Try @failvpn_bot
+
 trojan://MITIVPN@104.18.37.228:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=Us-A-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=us-ga-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#%40V2ray_Alpha%F0%9F%91%9C%208
 
 trojan://MiTiVPN@188.114.96.3:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNL---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#%40V2ray_Alpha%F0%9F%91%9C%203
-
-trojan://MiTiVPN@188.114.96.3:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNL---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=1&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#ProxyMtpVPN-39 Need a premium VPN config? Try @failvpn_bot
 
 trojan://MiTiVPN@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fdde---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#%40V2ray_Alpha%F0%9F%91%9C%201
 
