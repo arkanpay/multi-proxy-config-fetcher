@@ -1,14 +1,10 @@
 wireguard://%2BDD17TQQYu59oISnhght7r%2F2vNssgMdcQFtPGMR%2Frko%3D@162.159.192.17:4500?address=172.16.0.2%2F32&reserved=32%2C253%2C246&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-26 18:01
 
+wireguard://2HoRCTx5Wi0gWMYBrVGFl2EqPi%2BsI%2BY1X%2FtX0p7blGM%3D@162.159.192.9:942?address=172.16.0.2%2F32&reserved=69%2C171%2C116&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-28 10:01
+
 wireguard://6LIGlOjcodh2GB8LCQLXe5vOClqlxVf1laG2fVdl638%3D@162.159.192.9:2408?address=172.16.0.2%2F32&reserved=211%2C78%2C101&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-25 10:00
 
-wireguard://6OH94vHytuOtDRFiKb3AGmKbg45cRPRXzfKqfrjq63g%3D@162.159.195.6:500?address=172.16.0.2%2F32&reserved=102%2C112%2C14&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-22 21:04
-
 wireguard://8NR1pkgAijiJvtW%2BqG0nm6QHke6rExbecKFolI4GInM%3D@162.159.195.7:2408?address=172.16.0.2%2F32&reserved=58%2C136%2C219&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-25 21:00
-
-wireguard://GMLnI5qDjgVW6kxOYiEwc1ANiINSz4GDvSOWwC0UwUg%3D@162.159.195.6:942?address=172.16.0.2%2F32&reserved=111%2C21%2C185&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-23 10:04
-
-wireguard://MM4GvGoD571%2Bo7K15QIqSPx4PKo4Luh6BXTtgkJBQG8%3D@162.159.192.11:942?address=172.16.0.2%2F32&reserved=103%2C160%2C156&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-22 18:04
 
 wireguard://OAQveBMXvQOkzRJNF0PIAYazmdNBhJCw1cilxiXrwWA%3D@162.159.195.6:500?address=172.16.0.2%2F32&reserved=117%2C230%2C241&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-23 21:04
 
@@ -16,7 +12,11 @@ wireguard://OEsvQ0BMmGQ7mEcNvWmzp%2F5cCyrW0B8fAzkUa8b4SUw%3D@162.159.195.17:942?
 
 wireguard://QOU%2B8Ipg5Odrw7RsiZVXLFRoGZU9vSQflqvso43iHks%3D@162.159.192.7:2408?address=172.16.0.2%2F32&reserved=193%2C115%2C8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-24 18:00
 
+wireguard://YIsmsHLX9weVAR%2FE%2B510d2Lclmt2%2BBw3EBXYuMhgGkM%3D@162.159.195.11:2408?address=172.16.0.2%2F32&reserved=93%2C216%2C198&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-27 21:01
+
 wireguard://aNct7FS%2FBDiqdY%2FOktMBJitsmEs4KTvgl%2FK2eq47K3k%3D@162.159.192.14:2408?address=172.16.0.2%2F32&reserved=150%2C143%2C134&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-23 18:04
+
+wireguard://cEh9uHOyrnrL87ynsD2vC6Xq2TnwpXeLtMsTD39DSlI%3D@162.159.192.6:4500?address=172.16.0.2%2F32&reserved=212%2C178%2C180&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-27 18:01
 
 wireguard://mLXjhBeF7zznxfj9wPSD2hZ476S3oamdDc3mDfCsEEc%3D@162.159.192.12:4500?address=172.16.0.2%2F32&reserved=112%2C254%2C109&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-24 10:00
 
@@ -28,31 +28,31 @@ wireguard://sOFSw74FHUL6VIh00X3idxA7%2Bc%2B0PtPzT2XveizVA1Y%3D@162.159.195.9:942
 
 wireguard://uDRlEqeapxQu4jQtfU%2BVTCDJwFLCicQv2LSwv54ZyW4%3D@162.159.195.6:2408?address=172.16.0.2%2F32&reserved=206%2C212%2C201&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-24 21:00
 
-vless://33938142-2f48-48a3-9180-28476cf586f4@145.79.187.71:443?mode=auto&security=reality&encryption=none&pbk=Zz_n3cpItqh107oNUK15eu-3Ac4TpS5gB_6plrRrZj8&fp=chrome&type=xhttp&sni=rt.quicksavesafe.com&sid=9f3df965329a8e8f#filembad-158 Need a premium VPN config? Try @failvpn_bot
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#canfingV2rayNG-88 Need a premium VPN config? Try @failvpn_bot
 
-vless://66fb823b-3de8-45a3-9060-1dc992c38cc9@188.114.97.6:80?encryption=none&type=ws&path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&host=msjsi.azazilvpn.sbs.&insecure=1&allowInsecure=1#filembad-243 Need a premium VPN config? Try @failvpn_bot
+vless://2860e569-4c06-4950-af3e-3b72d892cdf2@faranse.duravex.net:8443?path=%2F&security=&encryption=none&host=faranse.duravex.net&type=ws#canfingV2rayNG-124 Need a premium VPN config? Try @failvpn_bot
+
+vless://29662c1f-2478-4556-a9a3-b12a6a66e148@mci.sulduz.pw:2174?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#canfingV2rayNG-125 Need a premium VPN config? Try @failvpn_bot
+
+vless://3b715892-8610-4fdc-9086-647b36af5443@html.iranpood.com:2086?mode=auto&path=%2F%3Fed%3D2082&security=&encryption=none&host=h.cafearen.ir&type=xhttp#canfingV2rayNG-145 Need a premium VPN config? Try @failvpn_bot
+
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.244.38:9881?type=grpc&fp=qq&security=reality&encryption=none&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&mode=gun&serviceName=grpc-tunnel#filembad-191 Need a premium VPN config? Try @failvpn_bot
+
+vless://68d89911-b92d-46fe-9007-3645c3b285f0@185.147.27.201:443?security=reality&encryption=none&pbk=boyoshgS6sNQ7xgi36ggKQzv_YtAoiFPxMZj-R6XB38&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=youtube.sparxiecn.com&sid=3acbb7d765702da3#filembad-221 Need a premium VPN config? Try @failvpn_bot
+
+vless://68d89911-b92d-46fe-9007-3645c3b285f0@194.55.235.176:443?security=reality&encryption=none&pbk=boyoshgS6sNQ7xgi36ggKQzv_YtAoiFPxMZj-R6XB38&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=youtube.sparxiecn.com&sid=3acbb7d765702da3#filembad-224 Need a premium VPN config? Try @failvpn_bot
 
 vless://735b8344-0b95-464c-b687-1c5616138908@104.21.8.201:2096?path=%2F3cagtz3%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D512&security=tls&encryption=none&insecure=0&host=cdn-de.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-de.skyvora.app#%40V2ray_Alpha%F0%9F%A5%A5%207
 
 vless://735b8344-0b95-464c-b687-1c5616138908@104.21.8.201:2096?path=%2F3cagtz3&security=tls&encryption=none&insecure=0&host=cdn-de.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-de.skyvora.app#%40V2ray_Alpha%F0%9F%A5%A5%205
 
-vless://7e24f2b1-04a0-4ab0-af87-3bef7eb78e25@185.87.24.174:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#filembad-275 Need a premium VPN config? Try @failvpn_bot
-
-vless://9c1d51b8-c4ac-4c79-9f85-e77e35e02aca@37.9.33.182:8443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=miro.com&fp=edge&pbk=e7B0sqjebSG-vm4VrvHOYDlXHv7yaCvPzjXTTZJ_Tyc&sid=2507f4e629906905&pqv=cnjxeKwxtkiAprk43JqqFbIe6rZmxTv1ZzZsEh5yPJeFak86IorCqNUkMkZR_nBiFZncU5BRCUqxcqsMEuPFhXc6YLwFr-hyH496es8-3DoGazP_E83IIdnam5FVRYbc10iASkz0Ls7KkJaug1GtTS2cuL9Xxgiaosg5V2jp0wEw_2ZyjP-gTFpkutS_mGPhQqwZAU75ay4fXZ9k7eC6EGJcY9tK-kDUfR_wJUtQlaGKyM2tSg5y1Y8l3tsOXU5hYhSXECX4kp4eCa-42pAWYqWxO0nDLI-NIJpvv5Cp7smtXE_hFxC9dZHqTGYy5nj9tjo4vhM8foF5W_GLB9J-nEh4StauaUc474ZsThXl09Xah49orvDPiJzTO-NCut-Ue_uM_9s9kRUgZ-lpCBmwPJYJJ6y9ATu1LJKX50MUmrzhEUtpHCAhY4r_FJCImrWjnxeH5Nq9iDaJQZapDRmpKgFmKN62YwDK3FBkVo96KJS3WY0O_pArXHA1vWMfy8ptsAMWMinc-81OpO84LordP6FwqxD4leeFbxuO-UgXU-s_3HrZjH6Fmaf_aDybktC-rp_8FXRnXtzbwgNNP48F1mEdVI4jFZCPcJsqsOV2J75isGJgzQ00pJiyFuW8qzxB9T1PIVi353MTOEc7pptPJHEn0rKMh_xxJCJbx4Dm_fElu1Cnb6bJYrY3rXhc_rgADboMRn2fPc2EglcbIGcUweBLYbzCWJyWvUHhom_sl3uZOQiPl82EWt_4QpoZ2LKymRT6L1_vswsSc5aka4CrgvlJfn2m5DKzUZs2A6eceJtOdEpfzOHVedAu_eBbTnuMNtP8Bhamp0LbJwmS9J7tuLmH0a5O_6cAvdmoG-fTbAZKBgje3fnSsE1_Ox3h5G24MUEzJoV1hrFE-kX19bLqGBR-TTva4ZSk_8Adapx-prVHaOk8gjDw8UAq-ios99tSt9VelzU9pOVcs3YpHvODLbWxo0_FkhOfIOsodgNbvcUVkxsyu4lxtoEgI5huUdz-Gi8IwHahG8B8YwFpyo2gXINNL3I-WE78w9Hw9DyKcMaEFDGy-4Jv7tGSC_U-fNwZsALcMtpmOcJdoguvqW3zd58r-s7ZaoRxHZwOXBq8hKOp1IBj2OADJ6vA0gvUC1zBRaxOz8R-OrFuMLj0ntRSzIf7hwLmYEN26dUX0W33i5ER8MmLNgtoV97GL1u-DCAZBGmFZUPT7gh8LODnvWcFtuPuUHUGwNY-OUPBrtJYoveoAAyVf6XAhqM-qWwrLZ6u-eovfbFSdgYFfObz6ocjRohYX3geSKvMONswRRGx2DL31hnHkmlcFkS9wukDY0cK6ZTsofw5matqUtlaildfh7-qtMzqwwZ19HL1kO7D7iznHaiQw5Uj6rAxAFFkSm7cud2GiYZ7bV4bzJx2OKMfJl1M5SCfH3BhC9J4Oivx-bUZjJt9VVQro4V6kFOEQFgvqVl2r8Rbet7vITpGzzGwy0NTnn6yPq73bc-mClbjH7Eqf_wuBBI1k1x5NBz8eKTpMqOvZ3ER-xyvM3us1GKoLWji71nJkkMIBOIt1MLZOT7Swy25j0tYd0URhI8ZfWVOdHfio5daDLBXMjO-sv6gno_FDTu9TqAjWlbftt12_yFikjgtD_ONuwChR2a3igHe78CiEd5ppYNKjxzSwzoPohmfn8HIRc0Cqiavnv7sJ2qkHnsBf6fTXM5xSO-Xkxq4eUgO7F_guc1tbzlnZPxdRCzzqOEOS1G4B0idVQU3Ytt3fyzceT7GBoo1gCPbxsetk0L9S5t6R72MeOOipMcFLFo4pUtbc3xZZD_nOi7RWMR2TVHtk0TQdljKqlyWaIMOzje5IF_O-hixyeokyin5Gef8dD2YuDe4zSvUArxW485xtcD7dwYaIYN08kAUQtLGHW404NNBbn9VvH2mDuBE8h0FSYchW0SriVD7Q0Gh8kXnX0qgk80qWpoXdvWZzz3NFZi3AD6HGlotGgF4pvJp0nAjkkOOyuPA-Qs5wgUn0_Kzf9xbxkFd36ZOfjLcVXVIWKTtphwHKjXbKN3h2W8pic2rzBGPmegbVxd6b169GhALzWPObFuoDRDvZT5kwbkziE-ZW68gITfO3JKMB9mu2ZzDfA-p0ABTCWwd9z_oqsG4L-BAJnFag6UbDTD5zmLb8HKmiYR7uOfrZa80_L75C_t1PaLLoPpu7cCW3rIyKFpS-rvZrLSi3h0juGHE0Y4JDyHw9AFUC7zz_QjsBjnWG1onHq_n4wgGXmEElEc81l_rGOso82FkRnZisGos9eN6KuMe7UdiG-4__QEuooO2BR8bMhTaS4yZEc5hjYNgryK3gRzdwAbSIjN1YX7l7JUuiU3EcuHPntCRoWuqluR_ZJYHM0g19ZL9Ou4sv2Pmk73KNqTHqgF6_iKe7LxgDyiqDRDjITYck2-iuibTnjqo7-xJ2ZCWbZZWX-QSGuNGFteWRw2FsZ0Q2mifXRPVLRnXUK0BqdLbYd-bQGWYqUIH2VzfyfzPtsutFUaV9qo0q5iIIQw5chIROFbvxOAvlk6WlNeEIxq0ZUC1KI3p5jYqYIeYjU9kD4pq0CXKQYY6pyQ#filembad-311 Need a premium VPN config? Try @failvpn_bot
-
-vless://InternetAzadRobot@151.101.129.164:80?mode=auto&path=%2FTignal&security=&encryption=none&host=tignaltofansv4.global.ssl.fastly.net&type=xhttp#canfingV2rayNG-319 Need a premium VPN config? Try @failvpn_bot
+vless://73e08fcb-a0c7-45d0-b55d-f78c903c64a6@dl4.gooniforoshi.fun:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=dl4.gooniforoshi.fun&type=ws&allowInsecure=0&sni=dl4.gooniforoshi.fun#canfingV2rayNG-236 Need a premium VPN config? Try @failvpn_bot
 
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.2.33:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#%40V2ray_Alpha%F0%9F%A5%A8%205
 
-vless://d207c6c8-a278-487c-b06e-f1fc89304e6d@de1.masterpgd.com:6013?mode=stream-up&path=%2Fassets&security=none&encryption=mlkem768x25519plus.random.0rtt.jjJ_o2cH2A9BGoJAboVH_S-8_AQzzm6ixz44D-kbOXI&host=myket.ir&type=xhttp#ProxyMtpVPN-371 Need a premium VPN config? Try @failvpn_bot
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=gr.freeinternat.com&sid=ff776ff77be48b88#canfingV2rayNG-373 Need a premium VPN config? Try @failvpn_bot
 
-vless://d7ec3e31-a9c4-4bdf-a2d8-7f75a8381035@188.114.97.6:8880?encryption=none&type=ws&host=weathered-lake-e883.35-bc4.workers.dev&path=%2F&security=none#filembad-379 Need a premium VPN config? Try @failvpn_bot
-
-vless://d890b403-d536-4c32-945c-b46e250492a6@20.199.24.140:443?security=reality&encryption=none&pbk=Lk_uZjr6a6DyLsgh1VasuUCN9G2YdO32u9nFZPgHxSw&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0f5af4a2#canfingV2rayNG-380 Need a premium VPN config? Try @failvpn_bot
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-411 Need a premium VPN config? Try @failvpn_bot
-
-vless://f245f3fc-8fc8-4e50-986f-be6ec660352c@192.209.62.143:34342?mode=auto&security=reality&encryption=none&pbk=lyzDzDe-gZf5XFFHoqb_C0UTed90cvor000xeOCI_Vs&fp=safari&spx=%2FPOST&type=xhttp&sni=mydesktop.oracle.com&sid=1b7470e8#filembad-437 Need a premium VPN config? Try @failvpn_bot
+vless://dc31fe25-d91d-4691-94cb-1085d31ab4f8@188.34.184.151:80?path=%2F&security=&encryption=none&type=ws#filembad-376 Need a premium VPN config? Try @failvpn_bot
 
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#%40V2ray_Alpha%F0%9F%A5%A8%208
 
@@ -63,6 +63,8 @@ vmess://eyJhZGQiOiI2Ni4xNjMuMTE4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIxMDMuMjE1LjIxOC4xNTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQFYycmF5X0FscGhh8J+RvSAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIzMS43Ny44Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImU4NzU4YmYwLWMyMzQtNDgwOS04OWY3LTI1ZmQ4NjgzMTZkMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJAVjJyYXlfQWxwaGHwn5G9IDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUTFVVVpoZE1KMVhpNFZfMzQ4djJn@p1tun4.greewebservices.ir:1080#filembad-6 Need a premium VPN config? Try @failvpn_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443#%40V2ray_Alpha%F0%9F%8C%9E%207
 
@@ -90,11 +92,9 @@ trojan://MITIVpN@199.232.78.101:443?path=%2F------Configvibes------Configvibes--
 
 trojan://MITIVpN@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40V2ray_Alpha%F0%9F%A5%A83
 
+trojan://MITIVpN@199.232.78.160:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1i%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=1&sni=ssl.fastly.com#ProxyMtpVPN-24 Need a premium VPN config? Try @failvpn_bot
+
 trojan://MiTiVPN@151.101.56.7:443?security=tls&alpn=http%2F1.1&host=mitivpn---de--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%3A%20v2rayvpno%40===============================اگر متصل نشدی ؛ سنجاق رو چک کن اینترنت آزاد و بدون فیلترینگ حق هم مردما @Vpn_3vpn :ادمین فروش
-
-trojan://MiTiVPN@199.232.78.101:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn---de--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#ProxyMtpVPN-40 Need a premium VPN config? Try @failvpn_bot
-
-trojan://MiTiVPN@199.232.78.101:443?path=%2F--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-41 Need a premium VPN config? Try @failvpn_bot
 
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40V2ray_Alpha%F0%9F%A5%A5%206
 
@@ -102,9 +102,5 @@ trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&h
 
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%3A%20%40v2rayvpno===============================اگر متصل نشدی ؛ سنجاق رو چک کن اینترنت آزاد و بدون فیلترینگ حق هم مردما @Vpn_3vpn :ادمین فروش
 
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40V2ray_Alpha%F0%9F%8E%8D%2013میکس قدرتی♾نامحدود همه اپراتورها⚡اتصال منطقه ای @V2ray_Alpha
-
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40V2ray_Alpha%F0%9F%8E%8D%2015
-
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40V2ray_Alpha%F0%9F%A5%A2%204
 
