@@ -26,65 +26,63 @@ wireguard://oEiCSH%2BWua3%2BV0DHIqRUPLnMeE1IF%2BPjihBBYMJkBUQ%3D@162.159.195.8:9
 
 wireguard://oMPevCfh800ElmckPMxG6R%2FUbhMavLxwbGi4iCz0cno%3D@162.159.192.17:908?address=172.16.0.2%2F32&reserved=91%2C2%2C185&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-10-08 10:01
 
-wireguard://sGfiwsByK4rXoAInRy%2FeNmbUMM7wAzEKLixh2xfF%2FV4%3D@162.159.192.2:500?address=172.16.0.2%2F32&reserved=202%2C32%2C214&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-10-04 18:04
+wireguard://sIhrw%2F7Qh97uNJ5L4LXNayGrJf2jumKoR2wZRImIOlg%3D@162.159.195.14:500?address=172.16.0.2%2F32&reserved=236%2C147%2C30&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-10-09 18:02
 
 hysteria2://033dc6b532@77.232.139.128:11592?security=tls&obfs=salamander&obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4&insecure=0&sni=srv-8718e6.frd21.ru#%40V2ray_Alpha%F0%9F%A7%B3%205
 
 hysteria2://033dc6b532@77.232.139.128:11592?security=tls&obfs=salamander&obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4&insecure=0&sni=srv-8718e6.frd21.ru#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%3A%20v2rayvpno%40===============================اگر متصل نشدی ؛ سنجاق رو چک کن اینترنت آزاد و بدون فیلترینگ حق هم مردما @Vpn_3vpn :ادمین فروش
 
-vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?path=%2F55072%2Fapi&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#canfingV2rayNG-77 Need a premium VPN config? Try @failvpn_bot
+vless://127ee83c-ff67-4c17-a7f6-29736e1c4f04@master0shop.spacemc.ir:52648?path=%2F&security=none&encryption=none&type=ws#filembad-79 Need a premium VPN config? Try @failvpn_bot
 
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%40V2ray_Alpha%F0%9F%A4%BF%207
+vless://20d51411-b4c2-4485-a80b-8f322da808b8@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#%40V2ray_Alpha%F0%9F%9A%84%203
 
-vless://4155973e-3df6-45fa-a649-6759d96bd5e0@Morti.brifelo.ir:4231?security=reality&encryption=mlkem768x25519plus.native.0rtt.HNEUEly1HBXf2S4JNphFpIdxghAzE5EkoU1M7xCTpxU&pbk=YfpMcHPP5SGnjyLhIKtapygk6Zs7W3-Cva3e0wJSWGY&headerType=none&fp=chrome&type=tcp&sni=www.technolife.com&sid=264d0aa9e38e20ab#filembad-160 Need a premium VPN config? Try @failvpn_bot
+vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@fin3.noirex.ir:8452?security=reality&encryption=none&pbk=IwknQbjID8Fmgr0K14Y9zaKnMNQ3pDiFRG5CMiKtY04&headerType=none&fp=chrome&type=tcp&sni=www3.donyumvps.tr&sid=c3f5c29b#ProxyMtpVPN-102 Need a premium VPN config? Try @failvpn_bot
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#canfingV2rayNG-169 Need a premium VPN config? Try @failvpn_bot
+vless://3c04e891-dc32-40a3-bcd0-d5e8283a6a03@polished-firefly-3e2d.20-645.workers.dev:8880?path=%2F&security=&encryption=none&type=ws#ProxyMtpVPN-148 Need a premium VPN config? Try @failvpn_bot
 
-vless://5e9d217c-0f9f-4c8c-aa79-a600baa8765b@2.144.22.87:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=api.bgp6.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api.bgp6.ir#canfingV2rayNG-207 Need a premium VPN config? Try @failvpn_bot
+vless://412c08d3-d2c4-4a29-a7ce-bc16d6ca6d79@tun2.appii.ir:8700?encryption=mlkem768x25519plus.native.0rtt.lf7RGaNMgbxzgCSNFaTbEjRGecpamczYdrjdUlQDq30&security=none&type=ws&headerType=none&path=%2F&host=arvancloud.ir#filembad-160 Need a premium VPN config? Try @failvpn_bot
 
-vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@198.41.208.42:443?path=%2FV2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast&security=tls&encryption=none&host=calm-base-e99e.pofokjimi.workers.dev&fp=chrome&type=ws&sni=calm-base-e99e.pofokjimi.workers.dev#canfingV2rayNG-309 Need a premium VPN config? Try @failvpn_bot
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.202.232.211:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443%3Fed%3D2560fp%3Dchrome&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40V2ray_Alpha%F0%9F%9A%84%204
 
-vless://bfb1ec97-a326-4cf3-adcf-d2a0e2dc49f8@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-377 Need a premium VPN config? Try @failvpn_bot
+vless://5250f957-1c28-4795-b8e0-ce63f2219884@fi.salfetkastroy.ru:443?security=reality&encryption=none&pbk=QTTneNQLYl_-Q0JbPyQWe2GpLUeL7JPl4P-5h0El6S8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi.salfetkastroy.ru&sid=f9989b69a77d0f3c#filembad-183 Need a premium VPN config? Try @failvpn_bot
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.36.143.187:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#%40V2ray_Alpha%F0%9F%A4%BF%202
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.114.48.103:443?sid=9ea74b83f4993ca9&headerType=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&fp=random&type=tcp&flow=xtls-rprx-vision&sni=nd-3.ardesnode.ru&encryption=none&security=reality#filembad-204 Need a premium VPN config? Try @failvpn_bot
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.68.196.67:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#%40V2ray_Alpha%F0%9F%A4%BF%205
+vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-252 Need a premium VPN config? Try @failvpn_bot
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@2.56.172.107:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#%40V2ray_Alpha%F0%9F%A4%BF%209
+vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?path=%2FeyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed&security=none&encryption=none&host=cold-bush-a762.lidrezvpn.workers.dev&type=ws#filembad-350 Need a premium VPN config? Try @failvpn_bot
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@80.211.27.249:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#%40V2ray_Alpha%F0%9F%A4%BF%206
+vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#%40V2ray_Alpha%F0%9F%A5%85%204
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@80.96.113.48:443?path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&encryption=none&insecure=0&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&allowInsecure=0&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr#%40V2ray_Alpha%F0%9F%A4%BF%2011
+vless://c381ed79-f3c9-4028-85ae-687795d89ece@DE.IPSENTER.ORG:443?security=reality&encryption=none&pbk=4-ou3SyJYZ2ptF0vXFdc02yIRTF4VF8m2XcUKJPsUyQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=1128da54b05ec30c#canfingV2rayNG-384 Need a premium VPN config? Try @failvpn_bot
 
-vless://df26029b-bffe-4ce2-9246-25b52ed2b1c7@172.67.152.71:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=ws&path=/&host=polished-field-4448.186-705.workers.dev&packetEncoding=xudp#filembad-406 Need a premium VPN config? Try @failvpn_bot
+vless://d342d11e-d224-4463-b982-532309285094@155.103.71.159:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40V2ray_Alpha%F0%9F%9A%84%201
 
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#%40V2ray_Alpha%F0%9F%A4%BF%2010
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#%40V2ray_Alpha%F0%9F%A5%85%202
 
-vless://f811a2e8-08ed-4b30-b44c-449a7cab54d8@13.143.175.56:443?security=reality&encryption=none&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&headerType=none&fp=firefox&spx=%2FAhmadV2ray&type=tcp&flow=xtls-rprx-vision&sni=newhollandafter.world#ProxyMtpVPN-478 Need a premium VPN config? Try @failvpn_bot
-
-vmess://eyJhZGQiOiJsdWNhcy5laHNhbmF6aXppLXNwZWVkLXNlcnZlci5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDZkNGQwMDEtNDE2OC00ODc2LTk0MTYtN2NhZWNmNTc4ZjQwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTEwIiwicHMiOiJAVjJyYXlfQWxwaGHwn46EIDYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.112.59.210:443?security=reality&encryption=none&pbk=MTYXgxLIK9PzmQGAjuCmhI1FikCNlvU66NKgQ5g14Bc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nl2.nztvpn.com&sid=0b135481ea1283fc#ProxyMtpVPN-450 Need a premium VPN config? Try @failvpn_bot
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#%40V2ray_Alpha%F0%9F%A5%85%203
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#%40V2ray_Alpha%F0%9F%A7%B3%206
 
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aFVDS0ViUGVKNEhHdG51RG5NT3gvdWUzdnFsQ0l0aEVTMG9nTGhsOHJZYz06d1N3UlY0clVaakJ6c3gyZ3Fuc1BvU1Iyb29qbm5TSVlVL3YrSnhYMzZZST0@31.57.185.253:53396#filembad-5 Need a premium VPN config? Try @failvpn_bot
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aFVDS0ViUGVKNEhHdG51RG5NT3gvdWUzdnFsQ0l0aEVTMG9nTGhsOHJZYz06d1N3UlY0clVaakJ6c3gyZ3Fuc1BvU1Iyb29qbm5TSVlVL3YrSnhYMzZZST0@31.57.185.253:53396#ProxyMtpVPN-4 Need a premium VPN config? Try @failvpn_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#%40V2ray_Alpha%F0%9F%AA%85%204
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTkwzbXhkZlpLaVBLaXpM@20.223.236.165:443#%40V2ray_Alpha%F0%9F%A5%85%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#%40V2ray_Alpha%F0%9F%8C%88%202
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#%40V2ray_Alpha%F0%9F%8E%84%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTkwzbXhkZlpLaVBLaXpM@20.223.236.165:443#%40V2ray_Alpha%F0%9F%A5%85%201
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#%40V2ray_Alpha%F0%9F%A5%8B%203
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNFotaWt5dVdDMEQ5MjZyWndiVGhn@p2tun2.greewebservices.ir:1020#ProxyMtpVPN-17 Need a premium VPN config? Try @failvpn_bot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#%40V2ray_Alpha%F0%9F%8C%88%207
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#%40V2ray_Alpha%F0%9F%98%B5%204
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%40V2ray_Alpha%F0%9F%92%BA%203
 
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?mode=gun&security=tls&alpn=h2&insecure=0&type=grpc&serviceName=ajv&allowInsecure=0&sni=d3-de2.cloud-cdn.xyz#%40V2ray_Alpha%F0%9F%A4%BF%204
+trojan://Mitivpn@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#canfingV2rayNG-41 Need a premium VPN config? Try @failvpn_bot
 
 trojan://Trojan%4082164024@ie.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ie.tronsg.com#%40V2ray_Alpha%F0%9F%8C%98%201
 
